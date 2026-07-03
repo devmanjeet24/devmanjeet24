@@ -1,12 +1,10 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Singhshashi18&color=FF7A8A&style=for-the-badge&label=🔥+Profile+Views)
-
-[![Resume](https://img.shields.io/badge/📄%20View%20My%20Resume-blue?style=for-the-badge)](https://drive.google.com/file/d/1Mn4z6flxcPHkOojocEw3BHjJ1e1v40v7/view)
+![Profile Views](https://komarev.com/ghpvc/?username=devmanjeet24&color=FF7A8A&style=for-the-badge&label=🔥+Profile+Views)
 
  
  
    
 
-# Hey there! :wave: I'm Shashi
+# Hey there! :wave: I'm Manjeet
 
 **Full-Stack Developer | MERN Stack | Next.js & TypeScript Enthusiast | Generative AI Explorer**
 
