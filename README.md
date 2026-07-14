@@ -28,10 +28,6 @@
 
 
 ---
-## :bar_chart: GitHub Stats
-
-![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Singhshashi18&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Singhshashi18&layout=compact&theme=radical)
 
 ---
 
