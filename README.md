@@ -52,13 +52,13 @@
 ## :link: Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shashi-prakash-singh-a58ab9358/" target="_blank">
+  <a href="https://www.linkedin.com/in/devmanjeet/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="mailto:singhshashi09871@gmail.com" target="_blank">
+  <a href="mailto:manjeetsingh880028@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
