@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=devmanjeet24&color=FF7A8A&style=for-the-badge&label=🔥+Profile+Views)
+
 
  
  
@@ -29,19 +29,6 @@
 
 ---
 
----
-
-
-
-##  GitHub Contribution Streak
-
-<!-- Use Vercel-hosted streak card for better reliability -->
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Singhshashi18&theme=radical)
-
-
-
-## :trophy: GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Procoder1234556&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 
 
