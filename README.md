@@ -4,7 +4,7 @@
  
    
 
-# Hey there! :wave: I'm Manjeet
+# Hey there! :wave: I'm Manjeet Singh
 
 **Full-Stack Developer | MERN Stack | Next.js & TypeScript Enthusiast | Generative AI Explorer**
 
