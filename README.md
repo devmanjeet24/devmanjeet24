@@ -10,6 +10,43 @@
 
 ![Typing   GIF](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Building+cool+projects...;Learning+Next.js,+Express.js,+TypeScript...;Exploring+Generative+AI...)
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **Generative AI (LLMs, RAG, AI Agents)**
+- 🤖 Building **AI-powered applications & automation**
+- 💻 Software Engineer passionate about **React Native, Python & Backend**
+- 🚀 Exploring **LangChain, Supabase, Vector Databases & MCP**
+- 🧠 Ask me about **JavaScript, React Native, Python, RAG & AI Basics**
+- 🎯 Goal: Become a **Full-Stack AI Engineer**
+- 📫 Reach me at **manjeetsingh880028@gmail.com**
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="340"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 AI / GenAI Journey
+
+- 📖 Learning **Large Language Models (LLMs)**
+- 🔍 Building projects using **Retrieval-Augmented Generation (RAG)**
+- 🗂️ Exploring **Vector Databases & Embeddings**
+- ⚡ Working with **LangChain, Supabase & OpenAI APIs**
+- 🤖 Interested in **AI Agents, Automation & MCP Servers**
+- 🚀 Currently building **real-world AI applications**
+
+---
+
 --
 <img     src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coder at Work" width="800"/>
 <div >
